@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+
+
+
+	
+	
+	<title>404</title>
+	
+		<link rel="canonical" href="https://gorillavl.ru/__404">
+	
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta property="og:title" content="404" />
+	
+	
+	
+	
+	
+
+
+
+	<meta name="robots" content="noindex, nofollow" />
+	
+	<link rel="shortcut icon" href="/favicon.ico?v=9606537933483064" type="image/x-icon">
+	<script>
+	window.developmentMode = false;
+	
+</script>
+	
+	
+	<script defer src="/js/lib/modernizr-webp.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><link rel="stylesheet" href="/css/devicePublish.min.css?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"><link rel="stylesheet" href="/css/lib/bootstrap.min.css?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"><script async src="/js/ulib/performance.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script>
+
+<link rel="stylesheet" href="/sitecss/customColorScheme-g-theme-site-1-desktop.css?x=267559" media="screen and (min-width : 992px)" />
+
+<link rel="stylesheet" href="/sitecss/customColorScheme-g-theme-site-1-tablet.css?x=787524" media="screen and (min-width: 768px) and (max-width: 991px)" />
+
+<link rel="stylesheet" href="/sitecss/customColorScheme-g-theme-site-1-phone.css?x=872006" media="screen and (max-width : 768px)" />
+	
+	<link rel="stylesheet" href="/sitecss/srcset-5eb149254a610a6df9034f87-all.css?v=20">
+	
+	
+		
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+  	::-webkit-scrollbar-button {
+    	background-image: url();
+    	background-repeat: no-repeat;
+    	width: 6px;
+    	height: 0;
+  	}
+  	::-webkit-scrollbar-track {
+    	background-color: rgb(255, 255, 255);
+  	}
+  	::-webkit-scrollbar-thumb {
+    	-webkit-border-radius: 0;
+    	border-radius: 0;
+    	background-color: #ffc03a;    
+  	}
+  	::-webkit-scrollbar-thumb:hover { 
+    	background-color: #000000;
+  	}
+  	::-webkit-resizer {
+    	background-image: url();
+    	background-repeat: no-repeat;
+    	width: 6px;
+    	height: 0;
+  	}
+  	::-webkit-scrollbar {
+    	width: 6px;
+  	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+  	/* Фиксируем меню */
+  	@media (min-width:768px) {
+		header {
+			position: sticky;
+			z-index: 100;
+			width: 100%;
+          	top: 0;
+		}
+  	}
+  	
+  	/* Убираем старую шапку*/
+  	#body .header-content .header-content-header {
+    	display: none;
+	}
+  
+  	#body .ul-w-mainmenu-nav > .ul-w-mainmenu-item {
+		padding: 20px 5px !important;
+    	font-size: 20px;
+	}
+  
+  	#body .ul-w-mainmenu-nav > .ul-w-mainmenu-item > a {
+    	padding: 8px 15px !important;
+	}
+  
+  	#body.g-theme-site-1 #body-fict [data-theme-block*='"desktop":"g-theme-block-1"'] .header-content-mainmenu {
+		background-color: #26282e !important;
+	}
+
+	#body.g-theme-site-1 #body-fict [data-theme-block*='"desktop":"g-theme-block-1"'] .ul-w-mainmenu-nav > .ul-w-mainmenu-item.ul-w-mainmenu-active-item > a, #body.g-theme-site-1 #body-fict [data-theme-block*='"desktop":"g-theme-block-1"'] .ul-w-mainmenu-nav > .ul-w-mainmenu-toggle.ul-w-mainmenu-active-item > a {
+		color: #fff;
+	}
+
+	#body.g-theme-site-1 #body-fict [data-theme-block*='"desktop":"g-theme-block-1"'] .ul-w-mainmenu-nav > .ul-w-mainmenu-item > a:hover, #body.g-theme-site-1 #body-fict [data-theme-block*='"desktop":"g-theme-block-1"'] .ul-w-mainmenu-nav > .ul-w-mainmenu-toggle > a:hover {
+		border-color: #ffc13a;
+		color: #fff;
+	}
+
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+  	.ul-upbutton-icon {
+      	background-image: url('/uploads/s/x/5/3/x53yflc9a8wo/img/full_BbTzrPm2.png');
+      	box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.4);
+      	background-repeat: no-repeat;
+    	background-position: center;
+      	background-color: #ffc03a;
+      	background-size: auto;
+      	border-radius: 5px;
+    	position: relative;
+    	overflow: hidden;
+    	cursor: pointer;
+      	height: 40px;
+      	width: 40px;
+    	opacity: 0;
+	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+	#aDialog.ul-js-aDialog-visible #aDialog-content {
+    	margin-top: 100px !important;
+	}
+  
+  	#aDialog #aDialog-content {
+    	border-radius: 5px;
+	}
+  
+  	#aDialog #aDialog-content #aDialog-data .button {
+  		background: #ffc03a !important; 
+      	color: #fff !important;
+	}	
+
+	#aDialog #aDialog-content #aDialog-data .button:hover{
+  		background: #e04b16;
+	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+ 	@media (max-width: 499px) {
+  		#main #body-fict header .ul-header-editor h1 {
+   			font-size: 18px !important;
+   			line-height: 20px !important;
+  		}
+      	
+  		#main #body-fict h1,
+  		#main #body-fict .h1,
+  		#main #body-fict .h1 li {
+   			font-size: 30px !important;
+   			line-height: 35px !important;
+  		}
+      
+  		#main #body-fict h2,
+  		#main #body-fict .h2,
+  		#main #body-fict .h2 li {
+   			font-size: 25px !important;
+   			line-height: 30px !important;
+  		}
+  
+      	#main #body-fict h3,
+  		#main #body-fict .h3,
+  		#main #body-fict .h3 li {
+   			font-size: 20px !important;
+   			line-height: 25px !important;
+  		}
+  
+      	#main #body-fict h4,
+  		#main #body-fict .h4,
+  		#main #body-fict .h4 li {
+   			font-size: 18px !important;
+   			line-height: 23px !important;
+  		}
+ 
+      	#main #body-fict,
+  		.ul-widget p,
+  		#main #body-fict .normal,
+  		#main #body-fict .normal li,
+  		#main #body-fict li {
+   			font-size: 16px !important;
+  	 		line-height: 20px !important;
+  		}
+  
+      	#main #body-fict p.important,
+  		#main #body-fict .important,
+  		#main #body-fict h5,
+  		#main #body-fict h5 li {
+  	 		font-size: 16px !important;
+   			line-height: 20px !important;
+  		}
+  
+      	#main #body-fict p.note,
+  		#main #body-fict .note,
+  		#main #body-fict h6,
+  		#main #body-fict h6 li {
+   			font-size: 15px !important;
+   			line-height: 20px !important;
+  		}
+  
+      	#main #body-fict .large {
+   			font-size: 18px !important;
+   			line-height: 18px !important;
+  		}
+  
+      	#main #body-fict .middle {
+   			font-size: 15px !important;
+   			line-height: 15px !important;
+  		}
+  
+      	#main #body-fict .small {
+   			font-size: 14px !important;
+   			line-height: 14px !important;
+  		}
+      	
+      	.ul-widget.ul-w-spacer {
+    		height: 25px !important;
+		} 
+ 	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+  	#body .ul-widget-backCall.blue .ul-call-wrapper .ul-chart {
+    	-webkit-box-shadow: 0px 0px 0px 6px rgba(241, 99, 38, 0.49);
+    	-moz-box-shadow: 0px 0px 0px 6px rgba(241, 99, 38, 0.49);
+   	 	box-shadow: 0px 0px 0px 6px rgba(241, 99, 38, 0.49);
+      	background-color: #ffc03a;
+      	color: #f16326;
+	}
+  	
+  	#body .ul-widget-backCall.blue .ul-call-wrapper .ul-chart:hover {
+    	background-color: #ffc03a;
+	}
+  
+  	#body .ul-widget-backCall.blue .ul-call-wrapper:before {
+    	border-color: transparent transparent #ffc03a #ffc03a !important;
+	}
+  
+  	#body .ul-widget-backCall.blue .ul-call-wrapper:after {
+    	background-color: #ffc03a;
+	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<style>
+  	#body .ul-w-price.ul-w-price-horizontal .ul-w-price-table .ul-w-price-item-description {
+		padding: 5px 10px 5px 10px;
+		min-width: 120px;
+	}
+
+	#body .ul-w-price.ul-w-price-horizontal .ul-w-price-table .ul-w-price-item-price {
+		padding: 5px 10px 5px 10px;
+		min-width: 90px;
+		width: 120px;
+	}
+
+	#body .ul-w-price.ul-w-price-horizontal .ul-w-price-table .ul-w-price-item-button {
+		text-align: right !important;
+		min-width: 180px;
+		padding: 5px 25px 5px 10px;
+	}
+</style>
+				<!-- htmlmin:ignore -->
+			
+		
+		
+	
+	
+	<style data-styled="true" data-styled-version="5.0.1"></style>
+</head>
+<body>
+	
+	
+	
+	<div id="main">
+		<div id="body" class="g-theme-site-1" data-mode="published" data-site-theme="g-theme-site-1">
+			<div
+				id="body-fict"
+				class="g-theme-block-1 ul-page-special-404"
+				data-theme-block='{"desktop":"g-theme-block-1", "tablet":"g-theme-block-1", "phone":"g-theme-block-1"}'
+				data-block_theme="g-theme-block-1"
+				style=""
+				data-parallax="none"
+			>
+				
+				<header  class="
+					js-hidden-device-element hidden-elements-device "data-device-hidden='{"desktop":false,"tablet":false,"phone":false}' data-theme-block='{"desktop":"g-theme-block-1","tablet":"g-theme-block-1","phone":"g-theme-block-1"}'>
+    <div class="header">
+    	<div class="header-content container-fluid">
+            <div class="row">
+                <div class="header-content-contacts col">
+                    
+                </div>
+                    <div class="header-content-top container">
+                        <div class="row">
+                            <div class="header-content-social col">
+                                
+                            </div>
+                            <div class="header-content-icon col">
+                                
+                            </div>
+                            <div class="header-content-header col">
+                                
+                            </div>
+                            <div class="header-content-wysiwyg col">
+                                
+                            </div>
+                        </div>
+                    </div>
+                <div class="header-content-mainmenu col">
+                    <div  data-fixed="false" data-bgColor="3" data-bgtransparent="100" data-version="1" id="ul-id-mainmenu-main" class="ul-widget ul-w-mainmenu" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="mainmenu" data-controls="e">
+
+	<div class="ul-w-mainmenu-showButton">
+		<span></span>
+		<span></span>
+		<span></span>
+	</div>
+	<div class="ul-w-mainmenu-nav" style="opacity: 0;">
+		 <div class="ul-w-mainmenu-item "> <a  class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/" data-type="page" target="_self">Главная</a></div> <div class="ul-w-mainmenu-item "> <a  class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/#ul-id-1220-2" data-type="page" target="_self">О нашем клубе</a></div> <div class="ul-w-mainmenu-item "> <a  class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/#ul-id-1222-48" data-type="page" target="_self">Цены на абонементы и услуги</a></div> <div class="ul-w-mainmenu-item "> <a  class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/#ul-id-1222-132" data-type="page" target="_self">Наши тренера</a></div> <div class="ul-w-mainmenu-item "> <a  class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/#ul-id-1222-161" data-type="page" target="_self">Контакты</a></div><div class="ul-w-mainmenu-toggle-button"><span></span><span></span><span></span></div>
+		<div class="ul-w-mainmenu-toggle">
+			<a class="ul-w-mainmenu-toggle-more normal">Еще</a>
+			<div class="ul-w-mainmenu-toggle-nasted"></div>
+		</div>
+	</div>
+
+
+
+
+</div>
+                </div>
+            </div>
+        </div>       
+    </div>
+</header>
+
+<div id="ul-content">
+	<div
+				id="ul-id-special-404_block"
+				class="ul-container g-theme-block-1"
+				style=""
+				data-theme="g-theme-block-1"
+				data-bgtype="color"
+				data-options=""
+				data-map-settings=""
+				data-parallax="none"
+				data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-1&quot;,&quot;tablet&quot;:&quot;g-theme-block-1&quot;,&quot;phone&quot;:&quot;g-theme-block-1&quot;}"
+				 >
+				
+				
+				
+<div class="container special-404-design1">
+	<div class="col col-xs-12 col-sm-12 col-sm-offset-0 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
+		<h1 class="special-404-big">404</h1>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				<div  spellcheck="false" placeholder="_" data-tag="span" data-widget="header" id="ul-id-special-404_header" class="ul-widget ul-widget-wysivig-header" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="uer"><div spellcheck="false">
+	<div class="ul-header-editor clearfix ul-header-wrap" placeholder="placeholder" style="outline:none; word-wrap: break-word; margin: 0 5px">
+		
+			<h2>Запрашиваемая страница не&nbsp;найдена</h2>
+		
+	</div>
+</div>
+</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				<div id="ul-id-special-404_text" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					
+					<div id="ul-id-special-404_text" class="sc-AxjAm StDqM ul-widget-wysivig ul-wysivig-editor "><p>Возможно вы&nbsp;ошиблись в&nbsp;адресе или страница была перемещена. Вы&nbsp;можете вернуться на&nbsp;главную, или воспользоваться меню.</p></div>
+					</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				<div  id="ul-id-special-404_button" class="ul-widget ul-w-button text-center" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="button" data-controls="ue">
+<a class="normal ul-w-button1 middle" target="_self" href="/"   >На главную</a>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+
+
+
+				
+				<div class="ul-col ul-absolute-widgets">
+					<div  data-position="special" data-party="left" data-userAgreement="{&quot;isActive&quot;:true,&quot;isAutoChecked&quot;:false,&quot;label&quot;:&quot;&quot;}" data-showTime="true" data-showUsername="true" data-widget="backCall" data-drop-position-fixed="true" id="ul-id-backCall-0" class="ul-widget ul-widget-backCall show-mobile animation1 green" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="mer">
+	<input type="hidden" name="_id" value="5eb2881562bc7b744aa04391"/>
+	<div class="ul-call-wrapper" data-help="Оставьте свой номер телефона и мы перезвоним вам в удобное для вас время " >
+		<div class="ul-chart ul-drag-animate animation1">
+			<span class="fa fa-phone ul-drag-animate"></span>
+		</div>
+	</div>
+
+
+
+</div><div  data-position="center" data-party="right" data-drop-position-fixed="true" data-height="240" data-showMobile="true" id="ul-id-uSocial-0" class="ul-widget ul-widget-uSocial show-mobile" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="uSocial" data-controls="mer">
+<script async src="https://usocial.pro/usocial/usocial.js?v=6.1.3.1" data-script="usocial" charset="utf-8"></script>
+<div 
+	class="uSocial-Share" 
+	data-pid="e38c006cfb78913fa06275296cb28605"
+	data-type="share" 
+	data-options="right,style1,round-rect,nomobile,slide-down,size32,eachCounter0,counter0"
+	data-social="vk,fb,twi,ok,spoiler"
+	data-mobile="vi,wa,telegram,sms"
+	data-lang="ru"
+	
+	>
+</div>
+
+</div>
+				</div>
+				<div class="ul-project-copyright ul-project-copyright-dark">
+	
+		 <a href="https://ukit.com/ru?utm_source=ukit_new_copyright" target="_blank" ></a>
+	
+</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<div
+		id="upbutton-container"
+		class="ul-upbutton"
+		style=""
+	>
+		<div class="ul-upbutton-icon"></div>
+	</div>
+
+	
+	
+	
+	
+	
+		<div id="js-captchaPublicKey" data-key="6LfX8f4SAAAAAFw7fF08_dNTAmDV61y_OqTK0a71" style="display: none;"></div>
+	
+	
+	
+	
+	
+	
+	
+	<script src="/js/lib/requirejs.min.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script>
+	
+	<script>window.cache = {"site":"gorillav","siteUrl":"gorillav","isMainLanding":null,"isULanding":false,"page":"__404","isPublished":false,"template":"signum","isExistCustomHtml":true,"isScaling":true,"scaleImages":{"images":"all","minDate":"2017-11-07T14:30:00.000Z","templates":null,"webp":1,"defaultQuality":85,"overrideQuality":null,"splitBy":"page","quality":85},"homeClusterDomain":"ukit.com","isRemove":{"header":false,"footer":true},"_hiddenWidgets":{"ul-id-social-header":true,"ul-id-contacts-head":true,"ul-id-header-sitename":true,"ul-id-contacts-top":false,"ul-id-mainmenu-main":false,"ul-id-icon-header":true,"ul-id-wysiwyg-header_text":true,"ul-id-wysiwyg-footercopyright":true},"publishedForm":{"maxFileSize":5,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"feedback":{"maxFileSize":24,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"shop":{},"backgroundParams":{},"googleMapsApiKey":"","yandexMapsApiKey":"","yandexMapsApiKeyEnabled":true,"isScreenshotMode":false,"googleEmbedMapsApiKey":"AIzaSyDSOw3TYN-VvZPNAHs4ItKzdr62LqXuJuM","lazyLoad":{"enabled":true,"range":1},"isDynamicRequireConfEnabled":true,"backCall":{"i18n":{"name":"Заказать звонок","phone connect":"Привязка к телефону","we callback later":"Ваша заявка принята. Мы&nbsp;вам перезвоним","phone connect description":"Укажите номер телефона, на который желаете получать sms-уведомления о входящих заявках","phone check number description":"На номер %1 был выслан код подтверждения","phone check replace number":"Указать другой номер","phone number":"Номер телефона","bind":"Привязать телефон","show":"Показывать в форме заказа","time call":"Выбор времени звонка","username":"Имя клиента","user agreement":"Согласие на сбор данных","user agreement label":"<p>Я согласен на обработку <a href=\"/__privacy_policy\" target=\"_blank\" rel=\"nofollow\">персональных данных</a> и с условиями <a href=\"/__user_agreement\" target=\"_blank\" rel=\"nofollow\">пользовательского соглашения</a></p>","description":"Этот виджет позволит посетителям сайта оставить вам заявку на обратный звонок","response code":"Vash kod podtverzhdeniya %1","call me":"Zakaz zvonka s %1 %2 %3 %4","not correct number":"Этот номер уже привязан к сайту","number connected":"Номер телефона указан некорректно","error resend sms":"Повторная отправка кода будет доступна через ","sending message":"Выполняется отправка sms с кодом подтверждения","code check":"Код подтверждения","confirm phone":"Подтвердить","resend message":"Отправить код подтверждения повторно","phone connect success":"Привязка к телефону","message succesfully":"Ваша заявка отправлена. Ожидайте звонка в указанное время","phone":"Ваш телефон","error confirm":"Неверный код подтверждения","morning":"с 8:00 до 12:00","day":"с 12:00 до 17:00","evening":"с 17:00 до 21:00","today":"Сегодня","seconds":"секунд","tomorrow":"Завтра","soon":"Как можно скорее","today morning":"Сегодня утром","today day":"Сегодня днём","today evening":"Сегодня вечером","tomorrow morning":"Завтра утром","tomorrow day":"Завтра днём","tomorrow evening":"Завтра вечером","Time zone":"Часовой пояс","insert phone":"Укажите телефон, на который вам перезвонить","insert username":"Укажите, когда вам удобнее пообщаться","username name":"","insert username input":"Ваше имя","like to receive a call":"Когда вам удобно получить звонок?","select to receive a call":"Выберите время","remove account":"Вы не сможете получать sms о заявках на обратный звонок","remove account description":"Отвязать номер телефона","unbind":"Отвязать","unbind_acc":"Отвязать аккаунт","error send message constructor mode":"Нельзя отправлять заявки в режиме конструктора","error send message":"Ошибка отправки сообщения","error send timeout":"Слишком частая отправка сообщений","error send timeout version2":"Повторная отправка кода будет доступна через ","error send timeout version3":"Повторно отправить заявку можно будет через ","error send not number":"Вы не ввели свой номер телефона","error not correct fill input":"Обязательное поле заполнено неверно","phone mask placeholder":"+X-ХХХ-ХХХХХХХ","time description call":"Укажите, когда вам удобно пообщаться","cancel replace phone":"Отменить","edit phone number":"Изменение номера","sending":"Выполняется отправка ...","button_decor":"Внешний вид кнопки","color button":"Цвет кнопки","animation button":"Анимация кнопки","animation1":"Дрожание","animation2":"Волны","animation3":"Болтание","Order":"Заказать","data help":"Оставьте свой номер телефона и мы перезвоним вам в удобное для вас время ","connect phone description":"Чтобы получать заявки на звонок от пользователей вашего сайта, привяжите телефон, на который хотите получать уведомления","request a call from website":"Заказать звонок с сайта","dublicate sms to email":"Дублировать заявку на почту","alter number":"Изменить номер","back call order":"Заказ обратного звонка","mail":{"header":"Здравствуйте!","subject":"Сообщение с сайта %1","main_text":"Посетитель вашего сайта <a href='%1' target='_blank'>%1</a> оставил заявку на обратный звонок.","show_msg":"Посмотрите его заявку: ","client_name":"Имя","client_phone":"Телефон","call_time":"Время"}}}}</script>
+	
+	
+	<script>
+		window.VERSION = '2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01';
+	</script>
+	
+		
+			<script src="/js/requireConf.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script>
+		
+	
+	
+	<script>
+		window.constructorMode = false;
+		window.previewMode = false;
+		window.backupPreviewMode = false;
+		window.cache.headerFooterTheme = "g-theme-block-0 g-theme-block-1";
+		window.cache.isRequireConfLoaded = true;
+		window.cache.isNewRequireConf = true;
+		
+	</script>
+	
+	
+	
+	<script>
+	var widgetsData = [];
+	
+	function getSafeWidgetsData() {
+		var base64 = "W3siaWQiOiJ1bC1pZC1jb250YWN0cy1oZWFkIiwidHlwZSI6ImNvbnRhY3RzIiwiZmllbGQiOiJjb250YWN0cyIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1oZWFkZXItc2l0ZW5hbWUiLCJ0eXBlIjoiaGVhZGVyIiwiZmllbGQiOiJzaXRlTmFtZSIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1pY29uLWhlYWRlciIsInR5cGUiOiJpY29uIiwiZmllbGQiOiJsb2dvIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLW1haW5tZW51LW1haW4iLCJ0eXBlIjoibWFpbm1lbnUiLCJmaWVsZCI6Im1lbnUiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtc29jaWFsLWhlYWRlciIsInR5cGUiOiJzb2NpYWwiLCJmaWVsZCI6InNvY2lhbCIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC11U29jaWFsLTAiLCJ0eXBlIjoidVNvY2lhbCIsImZpZWxkIjoidVNvY2lhbCIsImNvbnRyb2xzIjoibWVyIiwiYWJzIjp0cnVlfSx7ImlkIjoidWwtaWQtd3lzaXd5Zy1mb290ZXJjb3B5cmlnaHQiLCJ0eXBlIjoid3lzaXd5ZyIsImZpZWxkIjoiY29weXJpZ2h0IiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLXd5c2l3eWctaGVhZGVyX3RleHQiLCJ0eXBlIjoid3lzaXd5ZyIsImZpZWxkIjoidGFnbGluZSIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1iYWNrQ2FsbC0wIiwidHlwZSI6ImJhY2tDYWxsIiwiZmllbGQiOiJiYWNrQ2FsbCIsImNvbnRyb2xzIjoibWVyIiwiYWJzIjp0cnVlfSx7ImlkIjoidWwtaWQtc3BlY2lhbC00MDRfYnV0dG9uIiwidHlwZSI6ImJ1dHRvbiIsImNvbnRyb2xzIjoidWUifSx7ImlkIjoidWwtaWQtc3BlY2lhbC00MDRfaGVhZGVyMiIsInR5cGUiOiJoZWFkZXIiLCJjb250cm9scyI6InVlIn0seyJpZCI6InVsLWlkLXNwZWNpYWwtNDA0X2hlYWRlciIsInR5cGUiOiJoZWFkZXIiLCJjb250cm9scyI6InVlciJ9LHsiaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF9pY29uIiwidHlwZSI6Imljb24iLCJjb250cm9scyI6InVlciJ9LHsiaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF90ZXh0IiwidHlwZSI6Ind5c2l3eWciLCJjb250cm9scyI6InVlciJ9XQ==";
+		
+		if ( ! widgetsData.length ) {
+			try {
+				widgetsData = JSON.parse(decodeURIComponent(escape(window.atob(base64))));
+			} catch(e) {}
+		}
+		
+		return widgetsData;
+	}
+</script>
+	
+	
+	
+	<script>
+		var widgetsDeps = {"backCall":"widget-backCall-view","button":"widget-button-view","contacts":"widget-contacts-view","icon":"widget-icon-view","mainmenu":"widget-mainmenu-view","social":"widget-social-view","uSocial":"widget-uSocial-view"};
+		var widgetsDepsPaths = {"backCall":{"widget-backCall-view":"widgets/backCall/js/view"},"button":{"widget-button-view":"widgets/button/js/view","greenJs":{"viewName":"widget-button-view","viewPath":"widgets/button/js/view"}},"contacts":{"widget-contacts-view":"widgets/contacts/js/view","greenJs":{"viewName":"widget-contacts-view","viewPath":"widgets/contacts/js/view"}},"icon":{"widget-icon-view":"widgets/icon/js/view","greenJs":{"viewName":"widget-icon-view","viewPath":"widgets/icon/js/view"}},"mainmenu":{"widget-mainmenu-view":"widgets/mainmenu/js/view","greenJs":{"viewName":"widget-mainmenu-green-view","viewPath":"widgets/mainmenu/js/greenView"}},"social":{"widget-social-view":"widgets/social/js/view","greenJs":{"viewName":"widget-social-view","viewPath":"widgets/social/js/view"}},"uSocial":{"widget-uSocial-view":"widgets/uSocial/js/view"}};
+		
+		
+	</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<link rel="preload" as="style" href="/sitecss/typography.css?v=20" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="/sitecss/typography.css?v=20"></noscript>
+	
+	
+	
+		<link rel="preload" as="style" id="dist-version-css" href="/dist-version/css/pub.v1.css?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="/dist-version/css/pub.v1.css?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></noscript>
+	
+	
+	
+	
+	
+
+	
+		
+		
+			
+		
+			
+		
+			
+				<!-- htmlmin:ignore -->
+					<script>
+require(['jquery'], function($){
+ var anchor = {
+
+  el_menu: '.ul-w-mainmenu-nav:eq(0)', // Меню
+
+  // Старт
+  init: function(){
+   anchor.menu();
+   $(document).scroll(function(){
+    anchor.scolling();
+   });
+  },
+
+  // Собираем якоря из меню
+  menu: function(){
+   anchor.links_arr = [];
+   $(''+anchor.el_menu+' a').each(function(i){
+    if($(this).attr('href')){
+     if($(this).attr('href').indexOf('#') != -1){
+      var resh = $(this).attr('href').indexOf('#'),
+       all = $(this).attr('href').length,
+       val = $(this).attr('href').substr(resh, all);
+      anchor.links_arr[i] = $(this).attr('href')+'::'+val;
+     }
+    }
+   });
+  },
+
+  // Кто-то Скрулит, я ловлю этот прекрасный момент
+  scolling: function(){
+   anchor.links_arr.forEach(function(item){
+    var item_arr = item.split('::');
+    if(anchor.inWindow(''+item_arr[1]+'').length > 0){
+     $('.ul-w-mainmenu-active-item').removeClass('ul-w-mainmenu-active-item');
+     $('a[href="'+item_arr[0]+'"]').parent().addClass('ul-w-mainmenu-active-item');
+     return false;
+    }
+   });
+  },
+
+  // Проверка якоря в области видимости
+  inWindow: function(s){
+   var scrollTop = $(window).scrollTop(),
+    windowHeight = $(window).height(),
+    currentEls = $(s),
+    result = [];
+   currentEls.each(function(){
+    var el = $(this),
+     offset = el.offset();
+    if(scrollTop <= offset.top && (el.height() + offset.top) < (scrollTop + windowHeight)) result.push(this);
+   });
+   return $(result);
+  }
+ }
+ anchor.init();
+});
+</script>
+				<!-- htmlmin:ignore -->
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+	
+	<script async src="/js/lib/cssrelpreload.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><script defer src="/js/ulib/critical.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><script defer src="/js/ulib/calcHeaderHeight.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><script defer src="/js/ulib/upbutton.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><script defer src="/js/ulib/backgroundBlockColor.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script><script async src="/js/ulib/headerFooter.js?v=2020_06_17T13_16_30_03_00_e6c81c0e27ab25a9d618b4ef686644a31b60ed01"></script>
+	
+	
+		<script>
+	(function (w) {
+		if ( ! w.analyticsHandlers) {
+			w.analyticsHandlers = {};
+		}
+		
+		
+		
+		w.analyticsHandler = function () {
+			var
+				args = Array.prototype.slice.call(arguments),
+				counterPath = args.shift(),
+				counterMethod = args.shift();
+			
+			if (w.analyticsHandlers[counterPath]) {
+				var
+					counterHandler = window[w.analyticsHandlers[counterPath]];
+				
+				if (
+					counterHandler &&
+					typeof counterHandler === 'function'
+				) {
+					
+					counterHandler.apply(counterHandler, args);
+				
+				} else if (
+					counterHandler &&
+					typeof counterHandler[counterMethod] === 'function'
+				) {
+					
+					counterHandler[counterMethod].apply(counterHandler, args);
+					
+				}
+			}
+		};
+		
+		w.analyticsHandler.getCookie = function getCookie(e){var o=document.cookie.match(RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0};
+		w.analyticsHandler.setCookie = function setCookie(e,o,t){t=t||{};var n=t.expires;if("number"==typeof n&&n){var i=new Date;i.setTime(i.getTime()+1e3*n),n=t.expires=i}n&&n.toUTCString&&(t.expires=n.toUTCString()),o=encodeURIComponent(o);var r=e+"="+o;for(var c in t){r+="; "+c;var a=t[c];a!==!0&&(r+="="+a)}document.cookie=r};
+	})(window);
+</script>
+	
+</body>
+</html>
